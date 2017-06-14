@@ -42,4 +42,4 @@ The essence of the two approaches is consistent:To pull the project to the local
 
 #### Examples ####
 
-Please pull the item for details
+Please pull the item for details..
