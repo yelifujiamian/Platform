@@ -2,8 +2,7 @@
 # 2017/06/21：更新RN视频txt文件
 
 
-# 2017/06/22：
-# AndroidStudy
+# 2017/06/22：AndroidStudy
 
 # 扫描二维码下载APK示例：
 ![image](http://upload-images.jianshu.io/upload_images/587163-f258a65074ff6b36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
