@@ -1,5 +1,12 @@
 
-# 2017/06/21：更新RN视频txt文件
+# 2017/06/23：GlideImageView
+
+该库是基于Glide V4.0设计的，实现如下特性:
+
+1、通过提供的属性可以设置图片的圆角、边框。
+2、可以设置点击触摸图片时的颜色、透明度。
+3、一行代码加载来自网络、res、SDCard中的图片，可加载成圆形。
+4、可以监听加载图片时的进度。
 
 
 # 2017/06/22：AndroidStudy
@@ -47,3 +54,6 @@
 
 # 自定义View、ViewGroup：
  ![image](https://github.com/crazyqiang/AndroidStudy/blob/master/pic/initpintu.jpg) 
+
+
+# 2017/06/21：更新RN视频txt文件
