@@ -1,3 +1,4 @@
+# 2017/06/25：Gradle版本控制下载网址
 
 # 2017/06/23：GlideImageView
 
