@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.ninetripods.mq.study">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="${UMENG_CHANNEL_VALUE}" />
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".customViewGroup.FiveRingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".customView.cakeView.ViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bezier.BezierDemoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bezier.view.BeaierDemo.BezierTwoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bezier.view.BeaierDemo.BezierOneActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bezier.view.BeaierDemo.BezierThreeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".customView.alipayView.ALiPayActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".path.PathMeasureActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".path.PathVectorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiprocess_client.AidlActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiprocess_client.MessengerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiprocess_client.BinderActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".multiprocess_client.IntentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CommonWebviewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".popup.PopupWindowActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".jni.JNIActivity" />
+        <activity
+            android:name=".propertyAnimator.ViewPropertyAnimatorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".recycle.ContactsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".customViewGroup.FlowLayoutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".recycle.SwipeMenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".other.SuspendActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bezier.QQTrackPointActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
