@@ -1,5 +1,5 @@
 
-#2017/06/26 NetSpeedTest
+# 2017/06/25：NetSpeedTest
 Android测试网速的APP
 
 ###   
@@ -9,7 +9,7 @@ Android测试网速的APP
     然后开2个线程，线程A利用java.net的URL类去下载一个文件，例如一张几M大的图片，并且一直修改Info结构体的内容    
     线程B就每1秒读一次结构体的speed来更新UI，思路就这样。
 
-#2017/06/26 ： SuperTextView
+# 2017/06/25：SuperTextView
 
 是一个功能强大的View，可以满足日常大部分布局样式，开发者可已自行组合属性配置出属于自己风格的样式!可能描述起来没有概念，还是直接看效果图吧！
 
