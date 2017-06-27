@@ -1,8 +1,10 @@
-# 2017/06/25：CustomActionWebView
+# 2017/06/27：6.0权限管理框架 by WGY
+
+# 2017/06/26：CustomActionWebView
 
 自定义webview长按文本弹出选项，并且点击后返回选项与所选中的文本，你的webview不再只支持系统的复制等功能了，长按web文本实现文本一键收藏、分享，就是这么简单。Demo中附带对webView的详细使用：api详解，配置详解，js多种通信方式详解。 http://www.jianshu.com/p/16713361bbd3
 
-# 2017/06/25：NetSpeedTest
+# 2017/06/26：NetSpeedTest
 Android测试网速的APP
 
 ###   
