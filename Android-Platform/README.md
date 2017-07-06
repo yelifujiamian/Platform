@@ -1,3 +1,5 @@
+# 2017/07/06：BaseRecyclerViewAdapterHelper by WGY
+
 # 2017/06/27：6.0权限管理框架 by WGY
 
 # 2017/06/26：CustomActionWebView
