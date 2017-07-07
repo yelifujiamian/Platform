@@ -1,3 +1,9 @@
+# 2017/07/07：PermissionsDispatcher by WGY
+
+###   
+    介绍 http://www.jianshu.com/p/07e1a1cff5ad
+    PermissionsDispatcher还在AndroidStudio做了插件，只要在setting设置里的plugins界面里搜索PermissionsDispatcher就可以安装.   
+
 # 2017/07/07：沉浸式状态栏 by WGY
 
 # 2017/07/06：BaseRecyclerViewAdapterHelper by WGY
