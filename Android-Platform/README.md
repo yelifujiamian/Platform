@@ -1,3 +1,5 @@
+# 2017/07/07：沉浸式状态栏 by WGY
+
 # 2017/07/06：BaseRecyclerViewAdapterHelper by WGY
 
 # 2017/06/27：6.0权限管理框架 by WGY
