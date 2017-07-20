@@ -1,3 +1,9 @@
+# 2017/07/20：StickerView-master by WGY
+
+###   
+    介绍 https://github.com/wuapnjie/StickerView
+	关于控件放大缩小拖动
+    
 # 2017/07/07：PermissionsDispatcher by WGY
 
 ###   
