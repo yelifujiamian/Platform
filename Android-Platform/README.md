@@ -1,3 +1,11 @@
+# 2017/07/20：MatthewBases-master by WGY
+## 
+	详细介绍
+
+### [Android 快速开发（一），封装一个 TopBarBaseActivity](https://blog.ifmvo.cn/2017/04/14/package-topbarbaseactivity-by-toolbar/)
+
+### [Android 快速开发（二），封装一个 BottomTabBaseActivity](https://blog.ifmvo.cn/2017/05/03/package-bottomtabbaseactivity/)
+
 # 2017/07/20：StickerView-master by WGY
 
 ###   
