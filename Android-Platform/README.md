@@ -1,4 +1,44 @@
-# 2017/07/20：MatthewBases-master by WGY
+# 2017/09/28：DroidVR-master by WGY
+## 
+	360°全景，即通过对专业相机捕捉整个场景的图像信息或者使用建模软件渲染过后的图片，
+	使用软件进行图片拼合，并用专门的播放器进行播放，即将平面照片或者计算机建模图片变为360度全观，
+	用于虚拟现实浏览，把二维的平面图模拟成真实的三维空间，呈现给观赏者。
+
+### 效果图
+
+<img src="/DroidVR.gif">
+
+# 2017/08/30：okhttp-OkGo-master by WGY
+## 
+	一个基于okhttp的标准RESTful风格的网络框架
+
+# 2017/08/12：swipeitemlayout-master by WGY
+## 
+	这是一款仿iOS的PickerView控件，仿qq侧滑
+
+
+# 2017/08/11：Android-PickerView-master by WGY
+## 
+	这是一款仿iOS的PickerView控件，有时间选择和选项选择，并支持一二三级联动，支持自定义样式
+
+# 2017/08/09：ToggleButton-master by WGY
+## 
+	ToggleButton仿苹果的
+
+# 2017/08/02：banner-master by WGY
+## 
+	轮播图
+
+# 2017/08/01：BaseProject-master by WGY
+## 
+	基础的框架
+
+
+# 2017/08/01：StickyHeaderView-master by WGY
+## 
+	吸顶文本recyclerView
+
+# 2017/07/31：MatthewBases-master by WGY
 ## 
 	详细介绍
 
@@ -18,7 +58,9 @@
     介绍 http://www.jianshu.com/p/07e1a1cff5ad
     PermissionsDispatcher还在AndroidStudio做了插件，只要在setting设置里的plugins界面里搜索PermissionsDispatcher就可以安装.   
 
-# 2017/07/07：沉浸式状态栏 by WGY
+# 2017/07/07：FlycoSystemBar-master by WGY
+###
+	沉浸式状态栏
 
 # 2017/07/06：BaseRecyclerViewAdapterHelper by WGY
 
@@ -26,10 +68,12 @@
 
 # 2017/06/26：CustomActionWebView
 
-自定义webview长按文本弹出选项，并且点击后返回选项与所选中的文本，你的webview不再只支持系统的复制等功能了，长按web文本实现文本一键收藏、分享，就是这么简单。Demo中附带对webView的详细使用：api详解，配置详解，js多种通信方式详解。 http://www.jianshu.com/p/16713361bbd3
+###
+	自定义webview长按文本弹出选项，并且点击后返回选项与所选中的文本，你的webview不再只支持系统的复制等功能了，长按web文本实现文本一键收藏、分享，就是这么简单。Demo中附带对webView的详细使用：api详解，配置详解，js多种通信方式详解。 http://www.jianshu.com/p/16713361bbd3
 
 # 2017/06/26：NetSpeedTest
-Android测试网速的APP
+###
+	Android测试网速的APP
 
 ###   
     首先这个APP是学习网上的开源代码，吸收和优化得到的，所以当然也是开源给大家一起学习的啦
@@ -40,21 +84,22 @@ Android测试网速的APP
 
 # 2017/06/25：SuperTextView
 
-是一个功能强大的View，可以满足日常大部分布局样式，开发者可已自行组合属性配置出属于自己风格的样式!可能描述起来没有概念，还是直接看效果图吧！
+###
+	是一个功能强大的View，可以满足日常大部分布局样式，开发者可已自行组合属性配置出属于自己风格的样式!可能描述起来没有概念，还是直接看效果图吧！
 
 # 2017/06/25：Gradle版本控制下载网址
 
 # 2017/06/23：GlideImageView
+###
+	该库是基于Glide V4.0设计的，实现如下特性:
 
-该库是基于Glide V4.0设计的，实现如下特性:
+	1、通过提供的属性可以设置图片的圆角、边框
 
-**1、通过提供的属性可以设置图片的圆角、边框**
+	2、可以设置点击触摸图片时的颜色、透明度
 
-**2、可以设置点击触摸图片时的颜色、透明度**
+	3、一行代码加载来自网络、res、SDCard中的图片，可加载成圆形。
 
-**3、一行代码加载来自网络、res、SDCard中的图片，可加载成圆形。**
-
-**4、可以监听加载图片时的进度。**
+	4、可以监听加载图片时的进度。
 
 
 # 2017/06/22：AndroidStudy
