@@ -1,3 +1,7 @@
+# 2017/10/29：PopWindow by WGY
+##
+   对Android的底部弹窗、顶部弹窗菜单及自定义界面的使用封装。
+
 
 # 2017/10/07：RxPay-master by WGY
 ##
