@@ -1,6 +1,26 @@
+# 2017/11/12：BottomNavigationViewEx-master by WGY
+##
+	底部导航栏
+# 2017/11/10：AbilityMapView by WGY
+##
+	仿LOL掌盟能力七星图控件
+
+# 2017/11/10：IndicatorSeekBar by WGY
+##
+	IndicatorSeekBar
+	自定义SeekBar, 能改变尺寸、颜色、滑块图片、刻度图片、刻度文字和气泡指示器，当滑动时显示带有进度的气泡指示器。
+
+# 2017/10/31：PriseLayout-master by WGY
+##
+	点赞控件
+
+# 2017/10/30：AgentWeb by WGY
+##
+	AgentWeb 是基于 Android WebView 一个轻量级浏览器库 ， 使用很方便 ， 集成进你应用 ，只需几行代码 。
+	https://github.com/Justson/AgentWeb
 # 2017/10/29：PopWindow by WGY
 ##
-   对Android的底部弹窗、顶部弹窗菜单及自定义界面的使用封装。
+	对Android的底部弹窗、顶部弹窗菜单及自定义界面的使用封装。
 
 
 # 2017/10/07：RxPay-master by WGY
