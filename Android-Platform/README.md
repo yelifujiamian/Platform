@@ -1,3 +1,28 @@
+# 2017/12/4：HintPopupWindow-master by WGY
+##
+	menu popupwindow
+##
+# 2017/12/3：Toucher-master by WGY
+##
+	一个简单的悬浮窗Demo
+##
+
+# 2017/11/28：phoenix by WGY
+##
+	Android平台上图片/视频选择，编辑和压缩的一站式解决方案。
+##
+
+# 2017/11/27：IMDemo by WGY
+##
+	腾讯云的即时通讯demo。。。待更新
+##
+
+# 2017/11/27：android-pickers by WGY
+##
+	安卓选择器类库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、职业、学历、星座等）、城市地址选择器（分省级、地级及县级）、数字选择器（可用于年龄、身高、体重、温度等）等……可以切换不同的模式（目前有普通模式，3d滚轮模式）
+##
+	虚线
+	一个在Android上实现绘制虚线的控件，可以指定虚线的样式和方向
 # 2017/11/12：BottomNavigationViewEx-master by WGY
 ##
 	底部导航栏
