@@ -1,3 +1,6 @@
+# 2017/12/14：TestChatdemo-master by WGY
+##
+	TestChatdemo-master 表情demo
 # 2017/12/4：HintPopupWindow-master by WGY
 ##
 	menu popupwindow
