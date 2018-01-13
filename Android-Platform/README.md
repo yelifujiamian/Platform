@@ -1,3 +1,14 @@
+
+# 2018/01/11：ZiranfDemo by WGY
+##
+	ZiranfDemo 蓝牙通信协议及demo
+# 2018/01/4：htmlImage-master by WGY
+##
+	htmlImage-master TextView 加载富文本以及图片
+# 2017/12/24：二维码Jar包 by WGY
+##
+	二维码Jar包
+
 # 2017/12/14：TestChatdemo-master by WGY
 ##
 	TestChatdemo-master 表情demo
