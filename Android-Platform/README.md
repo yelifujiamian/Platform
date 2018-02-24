@@ -1,4 +1,7 @@
 
+# 2018/02/24：PhotoPicker-master by WGY
+##
+	PhotoPicker-master 多图选择
 # 2018/01/11：ZiranfDemo by WGY
 ##
 	ZiranfDemo 蓝牙通信协议及demo
